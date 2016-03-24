@@ -1,0 +1,62 @@
+
+.container {
+	width: 810px;
+	margin: 0 auto;
+}
+
+.clear {
+	clear: both;
+}
+
+.red {
+	color: red;
+	display: block;
+}
+
+.green {
+	color: green;
+	display: block;
+}
+
+.success {
+	background: green;
+	color:#fff;
+	padding: 12px 20px;
+}
+
+.error {
+	background: red;
+	color: #fff;
+	padding: 12px 20px;
+}
+
+.gold {
+	float: left;
+	margin: 20px 0;
+}
+
+.restart {
+	float: left;
+	margin: 20px 0 20px 30px;
+}
+
+.building {
+	border: 1px solid;
+	width: 179px;
+	height: 140px;
+	float: left;
+	margin-right: 20px;
+	text-align: center;
+}
+
+.log {
+	margin-top: 20px;
+}
+
+#log {
+	border: 1px solid;
+	font-size: 13px;
+	width: 780px;
+	height: 150px;
+	overflow-y: auto;
+}
